@@ -1,0 +1,26 @@
+_repo: The-Gathering-of-Brother-Hilarius_789
+creator:
+  author:
+    agent_name: Fairless, Michael
+    alias: Barber, Margaret Fairless
+    birthdate: 1869
+    deathdate: 1901
+    gutenberg_agent_id: '363'
+    url: http://www.gutenberg.org/2009/agents/363
+description: ''
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '789'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- !lcsh 'Monks -- Fiction'
+- !lcsh 'Monasteries -- Fiction'
+- !lcsh 'Plague -- Fiction'
+title: The Gathering of Brother Hilarius
+url: http://www.gutenberg.org/ebooks/789
